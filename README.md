@@ -1,5 +1,6 @@
 # Infotact Project
 # Project 1: Sales Data Analysis and Dashboard (Excel/Power BI)
+![image](https://github.com/user-attachments/assets/aac3973b-98d3-41ca-b040-4b0f501788b8)
 
  Problem Statement:
 Analyze a company’s historical sales data to identify key revenue drivers, seasonal trends, and suggest
